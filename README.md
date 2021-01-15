@@ -15,10 +15,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java       6 hrs 17 mins   ████████████▓░░░░░░░░░░░░   50.31 % 
-Go         2 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 % 
-XML        1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-VimL       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Markdown   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
