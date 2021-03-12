@@ -1,10 +1,9 @@
 ### Hi there 👋
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:solitudealma"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@guangzhou?v=1" align="right">
 </p>
 
-
+<img src="https://weather-icon.journeyad.repl.co/@guangzhou?v=1" align="right">
 
 ![SolitudeAlma's github stats](https://github-readme-stats.vercel.app/api?username=solitudealma&show_icons=true&theme=radical)
 
