@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         7 hrs 26 mins   ████████████████▓░░░░░░░░   66.94 % 
-HTML         3 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 % 
+Java         5 hrs 51 mins   ██████████████▓░░░░░░░░░░   58.03 % 
+HTML         4 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.97 % 
 ```
 <!--END_SECTION:waka-->
