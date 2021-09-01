@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p>
-  <img src="https://apibug.cn/api/ipqm/?wd=欢迎来到SolitudeAlma's的Github&apiKey=bbde50c3889b61ef936d4e336dd22ed0" />
-</p>
+
+<img src="https://apibug.cn/api/ipqm/?wd=欢迎来到SolitudeAlma的blog&apiKey=bbde50c3889b61ef936d4e336dd22ed0">
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:solitudealma"></a>
