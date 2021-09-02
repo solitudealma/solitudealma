@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown                   57 mins         ███████▓░░░░░░░░░░░░░░░░░   30.25 % 
-Other                      48 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.64 % 
-Nginx configuration file   32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
-C++                        19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Properties                 18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Markdown                   43 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
+Java                       39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Other                      32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Nginx configuration file   32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Git Config                 19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 <!--END_SECTION:waka-->
