@@ -14,10 +14,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 49 mins    ██████████████████░░░░░░░   71.61 % 
-Java     23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-C        11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Other    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Go       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
