@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                     1 hr 22 mins    █████████░░░░░░░░░░░░░░░░   36.10 %
-CSS                        1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   28.50 %
-HTML                       55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-JavaScript                 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Nginx configuration file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Markdown                   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Vue.js                     1 hr 22 mins    █████████░░░░░░░░░░░░░░░░   35.77 %
+CSS                        1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   28.23 %
+HTML                       55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+JavaScript                 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Nginx configuration file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Markdown                   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
